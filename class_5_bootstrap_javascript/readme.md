@@ -1,4 +1,4 @@
-# Class 4 CSS
+# Class 5 Bootstrap and intro to Javascript
 
 ## Table of contents:
 1. Links
