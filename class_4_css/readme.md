@@ -4,14 +4,12 @@
 1. Links
 2. Flexbox
 3. Grid
-4. Bootstrap
-5. Notes
+4. Notes
    
 
 ## 1. Links
 * [flexboxfroggy game](https://flexboxfroggy.com/)
 * [grid garden game](https://cssgridgarden.com/)
-* [boot strap page](https://getbootstrap.com/)
 
 
 ## 2. Flexbox
@@ -32,27 +30,6 @@ There are more arguments, but you can usually get away with using just these.
 
 See [Example](./grid/index.html)
 
-## 4. Bootstrap
-Is a CSS framework(most widely used), predesigned libraries that you can include into your code.
 
-Pros: 
-* easy and fast to use
-* high browser compatibility. 
-
-Cons:
-* We add everything to classes and makes things look messy and not css like. 
-* low customizations. 
-
-How to use:
-* Include via a CDN link from [getbootstrap.com](getbootstrap.com) at the end of header section
-* Include via a CDN script from [getbootstrap.com](getbootstrap.com) at the end of body section
-
-12 column flexbox design, that uses flexbox(in the background) to create grid-like websites [example](index.html). Show sizes, media functionality, and margin. <br><br>
-
-You can also visit the documentation and play around with what you can implement. [example2](index2.html)
- 
-  
-
-
-## 5. Notes
+## 4. Notes
 * Homework : Complete the grid garden game, and submit your answers on a .txt file to blackboard. 
