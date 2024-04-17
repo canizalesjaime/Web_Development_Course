@@ -1,4 +1,4 @@
-# Class 5  Javascript Continued
+# Class 7 Javascript Continued
 
 ## Table of contents:
 1. Links

@@ -1,4 +1,4 @@
-# Class 5  Document Object Model (DOM)
+# Class 8 Document Object Model (DOM)
 
 ## Table of contents:
 1. Links
