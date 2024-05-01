@@ -1,2 +1,11 @@
 *node_modules
-class_8_DOM/drum_kit/solution.js
+
+#latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.out
+
+webdev_midterm
