@@ -1,4 +1,4 @@
-# Class 9  Jquery for simplifying DOM
+# Class 10 Jquery for simplifying DOM
 
 ## Table of contents:
 1. Links

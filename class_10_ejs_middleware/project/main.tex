@@ -1,0 +1,98 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage[colorlinks=true, urlcolor=blue, linkcolor=red]{hyperref}
+\title{Midterm}
+\author{CSCI39548 Web Development}
+\date{Due: May 24th, 2024}
+
+
+\begin{document}
+
+
+\maketitle
+
+
+\section{Overview}
+In this project, students are expected to build a website using the\\
+Express/Node.js platform, with the Axios HTTP client, that integrates a chosen\\
+public API from the given list: Public API Lists. The website should interact\\
+with the chosen API, retrieve data, and present it in a user-friendly manner.
+
+
+\section{Objectives}
+\begin{itemize}
+  \item Develop an understanding of how to integrate public APIs into web projects.
+  \item Gain practical experience using Express/Node.js for server-side programming.
+  \item Enhance understanding of client-server communication using Axios.
+  \item Demonstrate ability to manipulate, present, and work with data retrieved from APIs.
+\end{itemize}
+
+
+\section{Example Ideas}
+\begin{itemize}
+  \item Use the JokeAPI to Create a website that gives the user a joke based on their name.
+  \item  Use the OpenWeatherMap API to build a website that tells a user if it will rain tomorrow in their location of choice.
+  \item Use the Blockchain API to check the price of a cryptocurrency for the user.
+  \item Use the CocktailDB API to make a website that gives the user a random cocktail recipe with images of the cocktail.
+  \item Use the Open UV API to make a website based on your home location that tells you if you need to apply sunscreen today.
+\end{itemize}
+
+
+\section{Requirements}
+
+\subsection{API Choice}
+\begin{itemize}
+  \item Browse through the \href{https://github.com/public-api-lists/public-api-lists}{provided list}
+   and choose an API of interest. This choice should be guided by the potential to retrieve, 
+   manipulate, and present data in a meaningful and interactive way. I recommend choosing an 
+   API that does not require authentication and is CORS enabled.\href{https://medium.com/@electra_chong/what-is-cors-what-is-it-used-for-308cafa4df1a}{(What is CORS?)}
+\end{itemize}
+
+\subsection{Project Planning}
+\begin{itemize}
+  \item Think through your project, researching the chosen API, its features,
+   what data it will provide, and how it will be used in your web application.
+\end{itemize}
+
+\subsection{Project Setup}
+\begin{itemize}
+  \item Set up a new Node.js project using Express.js.
+  \item Include Axios for making HTTP requests.
+  \item Include EJS for templating.
+  \item Ensure that the project has a structured directory and file organization.
+\end{itemize}
+
+\subsection{API Integration}
+\begin{itemize}
+  \item Implement at least a GET endpoint to interact with your chosen API.
+  \item Use Axios to send HTTP requests to the API and handle responses.
+\end{itemize}
+
+\subsection{Data Presentation}
+\begin{itemize}
+  \item Design the application to present the retrieved data in a user-friendly way.
+   Use appropriate HTML, CSS, and a templating engine like EJS.
+\end{itemize}
+
+\subsection{Error Handling}
+\begin{itemize}
+  \item Ensure that error handling is in place for both your application and any API 
+  requests. You can console log any errors, but you can also give users any user-relevant errors.
+\end{itemize}
+
+\subsection{Documentation}
+\begin{itemize}
+  \item Include comments throughout your code to explain your logic.
+\end{itemize}
+
+\subsection{Code Sharing}
+\begin{itemize}
+  \item Use what you have learnt about GitHub to commit and push your 
+    project to GitHub so that you can share.
+
+  \item Include a Readme.md file that explains how to start your server, 
+  what commands are needed to run your code. e.g.\textbf{ npm i  and then nodemon index.js}
+\end{itemize}
+\end{document}
