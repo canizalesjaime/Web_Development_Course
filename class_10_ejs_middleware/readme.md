@@ -1,5 +1,4 @@
-# Class 10 Jquery for simplifying DOM
-
+# Class 10 Middleware and embedded javascript
 ## Table of contents:
 1. Links
 2. Postman
@@ -67,7 +66,7 @@ The object data would be passed to index.ejs with the name locals.
 
 
 ## 5. Notes
-* Project: [project](./project.txt) 
+* Project: [project](./project/main.pdf) 
 * git clone quake
 
   
