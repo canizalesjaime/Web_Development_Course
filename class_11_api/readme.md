@@ -13,8 +13,8 @@
 
 
 ## 2. JSON
-JSON.parse() - 
-JSON.stringify() -
+JSON.parse() - convert a JSON file into an array of objects.
+JSON.stringify() -convert the array back to a JSON format. 
 
 ## 3. API
 REST API use the https(get,post,put,patch, delete) for communication via axios. Communcation is done using JSON format. 
